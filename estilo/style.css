@@ -1,11 +1,11 @@
 @charset "UTF-8";
 @font-face {
     font-family: 'Passion One';
-    src: url('fontes/passionone.ttf') format('truetype');
+    src: url('../fontes/passionone.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Sriracha';
-    src: url('fontes/sriracha.ttf') format('truetype');
+    src: url('../fontes/sriracha.ttf') format('truetype');
 }
 :root {
     --font1: Verdana, Geneva, Tahoma, sans-serif;
