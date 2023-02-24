@@ -1,12 +1,14 @@
 @charset "UTF-8";
-@font-face {
+/*@font-face {
     font-family: 'Passion One';
     src: url('../fontes/passionone.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Sriracha';
     src: url('../fontes/sriracha.ttf') format('truetype');
-}
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 :root {
     --font1: Verdana, Geneva, Tahoma, sans-serif;
     --font2: 'Passion One', cursive;
